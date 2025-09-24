@@ -1,0 +1,37 @@
+{
+  "id": "4875750",
+  "name": "字体图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776631",
+      "name": "view",
+      "font_class": "icon-test",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8777165",
+      "name": "image",
+      "font_class": "icon-test1",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "8777492",
+      "name": "like",
+      "font_class": "icon-test2",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "8777657",
+      "name": "social_wechat",
+      "font_class": "icon-test3",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    }
+  ]
+}
